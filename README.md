@@ -33,6 +33,7 @@ A list of online courses i have completed with their respective certificates whe
 - SQL for Data Analysis: Advanced <a href="https://app.dataquest.io/view_cert/O4U8Y2SCH51KBD07PNMF/">Certificate<a/>
 - APIS and Web Scraping in Python <a href="https://app.dataquest.io/view_cert/RGGJ4LS4C9DIGC37ENCP/">Certificate<a/>
 - Storytelling Through Data Visualization <a href="https://app.dataquest.io/view_cert/2W7JCMFFT4NR7U7CRNVJ/">Certificate<a/>
+- <hr>
 - <a href="">Certificate<a/>
 - <a href="">Certificate<a/>
 - <a href="">Certificate<a/>
