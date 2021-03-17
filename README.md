@@ -46,6 +46,6 @@ A list of online courses i have completed with their respective certificates whe
 
 <hr>
 
-<b>Goldsmiths, University of London<b/><br>
+<b>Cousera: Goldsmiths, University of London<b/><br>
 - Responsive Website Basics: Code with HTML, CSS, and JavaScript <a href="https://www.coursera.org/account/accomplishments/verify/G9J8E9DUSUJF">Certificate<a/>
 
