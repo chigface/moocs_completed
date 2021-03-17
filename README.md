@@ -39,6 +39,8 @@ A list of online courses i have completed with their respective certificates whe
 <hr>
     - The Complete Course: Artificial Intelligence From Scratch <a href="">Certificate<a/>
     - Further Deepened my understanding of AL concepts such as Neural Networks, Classification, Regression and Optimization using Python
+    - APIS and Web Scraping in Python <a href="https://app.dataquest.io/view_cert/RGGJ4LS4C9DIGC37ENCP/">Certificate<a/>
+- Storytelling Through Data Visualization <a href="https://app.dataquest.io/view_cert/2W7JCMFFT4NR7U7CRNVJ/">Certificate<a/>
 <hr>
 <b>Goldsmiths, University of London<b/><br>
   - Responsive Website Basics: Code with HTML, CSS, and JavaScript <a href="https://www.coursera.org/account/accomplishments/verify/G9J8E9DUSUJF">Certificate<a/>
