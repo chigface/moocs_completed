@@ -8,10 +8,10 @@ A list of online courses i have completed with their respective certificates whe
 - Pandas and NumPy: Fundamentals <a href="https://app.dataquest.io/view_cert/GQC8G19M589WSBADIRM8/">Certificate<a/>
 - Exploratory Data Visualization <a href="https://app.dataquest.io/view_cert/TS6DG2UROH6BCKRZXWM7/">Certificate<a/>
 - Data Cleaning and Analysis <a href="https://app.dataquest.io/view_cert/AT12GVKTSOPGVW6SFMX8/">Certificate<a/>
-- Data Cleaning Project walkthrough<a href="https://app.dataquest.io/view_cert/R71IFABCAYJARYUELFR9/">Certificate<a/>
+- Data Cleaning Project walkthrough <a href="https://app.dataquest.io/view_cert/R71IFABCAYJARYUELFR9/">Certificate<a/>
 - Data Cleaning in Python: Advance <a href="https://app.dataquest.io/view_cert/LE81IQIW8CBATAGOXVS6/">Certificate<a/>
 - Statistics Fundamentals <a href="https://app.dataquest.io/view_cert/KT51NDFPIY3VWNS56B9J/">Certificate<a/>
-- Statistics Intermediate: Average and Vriability<a href="https://app.dataquest.io/view_cert/IVVOIDTB30TPSH6RKU20/">Certificate<a/>
+- Statistics Intermediate: Average and Variability <a href="https://app.dataquest.io/view_cert/IVVOIDTB30TPSH6RKU20/">Certificate<a/>
 - Probability: Fundamentals <a href="https://app.dataquest.io/view_cert/YEWK5H78U1O4VTQEU7ID/">Certificate<a/>
 - Conditional Probability <a href="https://app.dataquest.io/view_cert/0G0PSYBSNVLMYH2QPTYI/">Certificate<a/>
 - Hypothesis Testing: Fundamentals <a href="">Certificate<a/>
