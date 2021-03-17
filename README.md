@@ -33,11 +33,13 @@ A list of online courses i have completed with their respective certificates whe
 - SQL for Data Analysis: Advanced <a href="https://app.dataquest.io/view_cert/O4U8Y2SCH51KBD07PNMF/">Certificate<a/>
 - APIS and Web Scraping in Python <a href="https://app.dataquest.io/view_cert/RGGJ4LS4C9DIGC37ENCP/">Certificate<a/>
 - Storytelling Through Data Visualization <a href="https://app.dataquest.io/view_cert/2W7JCMFFT4NR7U7CRNVJ/">Certificate<a/>
-<hr>
+
+
 <b>Edx<b/><br>
 - Principles of Machine Learning: Python Edition <a href="https://courses.edx.org/certificates/7d1f0ae5afee49f481c10800463f7c2f">Certificate<a/>
 - The Complete Course: Artificial Intelligence From Scratch <a href="">Certificate<a/>
-<hr>
+
+
 <b>Goldsmiths, University of London<b/><br>
 - Responsive Website Basics: Code with HTML, CSS, and JavaScript <a href="https://www.coursera.org/account/accomplishments/verify/G9J8E9DUSUJF">Certificate<a/>
 
