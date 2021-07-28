@@ -13,3 +13,4 @@ A list of online courses I have completed with their respective certificates whe
 
 <b>Cousera: Goldsmiths, University of London<b/><br>
 - Responsive Website Basics: Code with HTML, CSS, and JavaScript <a href="https://www.coursera.org/account/accomplishments/verify/G9J8E9DUSUJF">Certificate<a/>
+- Analyze Datasets and Train ML Models using AutoML <a href="https://www.coursera.org/account/accomplishments/verify/UWEVLLRDNUXJ">Certificate<a/>
